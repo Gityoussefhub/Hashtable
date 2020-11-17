@@ -1,4 +1,4 @@
-# Capacity for internal array
+# Capacity for internal arrays
 INITIAL_CAPACITY = 100 # prime number if we deal with double hashed function
 
 
